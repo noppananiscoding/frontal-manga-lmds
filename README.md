@@ -1,4 +1,7 @@
 # Deep Learning for Manga Frontal Face Alignment Detection
+```
+python==3.10.12
+```
 # To install needed libaries
 ```
 git clone https://github.com/noppananiscoding/frontal-manga-lmds.git
