@@ -13,5 +13,19 @@ pip install -r requirements.txt
 python <pipeline_name>/train.py
 python <pipeline_name>/val.py
 ```
-# Resources
+# Citation
+If you need these models, please cite:
+```
+S. Vachmanus, N. Phinklao, N. Phongsarnariyakul, T. Plongcharoen, S. Hotta and S. Tuarob, "Automating Manga Character Analysis: A Robust Deep Vision-Transformer Approach to Facial Landmark Detection," in IEEE Access, vol. 12, pp. 131284-131295, 2024, doi: 10.1109/ACCESS.2024.3459419.
+keywords: {Face recognition;Cultural aspects;Feature extraction;Accuracy;Heating systems;Neural networks;Transformers;Deep learning;Face landmarks;deep learning;manga;cultural heritage},
+
+@ARTICLE{10679133,
+  author={Vachmanus, Sirawich and Phinklao, Noppanan and Phongsarnariyakul, Naruparn and Plongcharoen, Thanat and Hotta, Seiji and Tuarob, Suppawong},
+  journal={IEEE Access}, 
+  title={Automating Manga Character Analysis: A Robust Deep Vision-Transformer Approach to Facial Landmark Detection}, 
+  year={2024},
+  volume={12},
+  pages={131284-131295},
+  doi={10.1109/ACCESS.2024.3459419}}
+```
 
