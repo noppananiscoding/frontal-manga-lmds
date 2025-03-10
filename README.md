@@ -13,6 +13,11 @@ pip install -r requirements.txt
 python <pipeline_name>/train.py
 python <pipeline_name>/val.py
 ```
+# Weights
+```
+https://onedrive.live.com/?authkey=%21AM5OYOzF0sK98os&id=71BA4EAC2D3846E2%21828588&cid=71BA4EAC2D3846E2
+```
+
 # Citation
 If you need these models, please cite:
 ```
